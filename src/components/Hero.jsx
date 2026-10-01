@@ -1,6 +1,6 @@
 export function Hero() {
     return (
-        <section id="about" className="min-h-screen flex flex-col justify-center items-center text-center px-6 pt-20">
+        <section id="about" className="min-h-[70vh] flex flex-col justify-center items-center text-center px-6 pt-20">
             <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-4">
                 ¡Hola! Soy <span className="text-sky-400">Desarrollador Web</span>
             </h1>
