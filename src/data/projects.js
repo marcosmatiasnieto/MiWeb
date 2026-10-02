@@ -3,7 +3,7 @@ export const projectsData = [
         id: 1,
         title: "TuPintor CBA",
         description: "Landing page interactiva para cotizar trabajos de pintura con calculadora de precios.",
-        tags: ["React", "Tailwind CSS", "Vercel"],
+        tags: ["React", "Tailwind CSS", "Vercel", "Node.js","TypeScript"],
         liveUrl: "https://tu-pintor-wheat.vercel.app/",
         githubUrl: "https://github.com/velascosoft/tupintor-www",
         image: "/images/TuPintorCBA.png" // Imagen de prueba
