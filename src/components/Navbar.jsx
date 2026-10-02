@@ -6,8 +6,16 @@ export function Navbar() {
     return (
         <header className="fixed top-0 left-0 w-full bg-slate-900/80 backdrop-blur-md border-b border-slate-800 z-50">
             <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-                {/* Logo */}
-                <h2 className="text-xl font-bold text-sky-400">Mi Portfolio</h2>
+
+                {/* Logo + Marca */}
+                <a href="#" className="flex items-center gap-3 hover:opacity-90 transition">
+                    <img
+                        src="/favicon.png"
+                        alt="Logo Marcos Nieto"
+                        className="w-10 h-10 rounded-full object-cover border border-sky-400/30 shadow-sm"
+                    />
+                    <h2 className="text-xl font-bold text-sky-400">Backend Developer</h2>
+                </a>
 
                 {/* Menú para Computadora */}
                 <nav className="desktop-menu flex gap-6 text-sm font-medium text-slate-300">
@@ -29,7 +37,7 @@ export function Navbar() {
                         </svg>
                     ) : (
                         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 18h16M4 18h16" />
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
                         </svg>
                     )}
                 </button>

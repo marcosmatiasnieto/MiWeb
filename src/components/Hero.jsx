@@ -9,7 +9,8 @@ export function Hero() {
                     👋 ¡Hola! Soy Marcos Nieto
                 </h1>
                 <p className="text-slate-300 text-base sm:text-lg mb-8 leading-relaxed">
-                    Desarrollador de software enfocado en construir aplicaciones web eficientes con React, Java Spring Boot y Laravel. Apasionado por aprender constantemente y resolver problemas reales con código.
+                    Desarrollador Backend en formación, enfocado en Java y desarrollo de aplicaciones web.
+                    Trabajo con Java, Spring Boot, Laravel y tecnologías web, construyendo proyectos orientados a resolver problemas reales. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend y buenas prácticas de programación.
                 </p>
                 <div className="flex flex-wrap justify-center sm:justify-start gap-4">
                     <a
