@@ -19,7 +19,7 @@ export function Skills() {
     ];
 
     return (
-        <section id="skills" className="py-20 px-6 max-w-5xl mx-auto">
+        <section id="skills" className="pt-6 px-6 max-w-5xl mx-auto">
             <h2 className="text-3xl font-extrabold text-white text-center mb-12">
                 Habilidades Tecnológicas
             </h2>
