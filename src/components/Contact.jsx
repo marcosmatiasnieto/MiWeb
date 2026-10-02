@@ -36,9 +36,9 @@ export function Contact() {
 
             {/* Pie de página compacto */}
             <div className="pt-6 border-t border-slate-800/40 text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-between gap-2">
-                <p>© 2026 Marcos Matias Nieto</p>
+
                 <p className="flex items-center gap-1">
-                    Desarrollado con React, Tailwind CSS & Vercel
+                    Desarrollador Web / Full Stack | React, Node.js, Spring Boot & Laravel | Metodologías Ágiles
                 </p>
             </div>
         </footer>
