@@ -31,7 +31,7 @@ export function Hero() {
             {/* Foto a la derecha */}
             <div className="flex-shrink-0 mx-auto sm:mx-0">
                 <img
-                    src="/images/MarcosNieto.jpg"
+                    src="/images/NietoMarcos.jpg"
                     alt="Marcos Matias Nieto"
                     className="w-40 h-40 sm:w-52 sm:h-52 rounded-full object-cover border-4 border-sky-400/50 shadow-xl shadow-sky-500/15"
                 />
