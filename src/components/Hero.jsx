@@ -1,7 +1,7 @@
 export function Hero() {
     return (
 
-        <section className="pt-24 pb-10 sm:pb-12 px-6 max-w-5xl mx-auto flex items-center justify-between gap-10 flex-wrap sm:flex-nowrap min-h-[45vh]">
+        <section id="about" className="pt-24 pb-10 sm:pb-12 px-6 max-w-5xl mx-auto flex items-center justify-between gap-10 flex-wrap sm:flex-nowrap min-h-[45vh]">
 
             {/* Texto a la izquierda */}
             <div className="text-center sm:text-left sm:w-2/3 flex-grow min-w-[300px]">
